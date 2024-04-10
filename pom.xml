@@ -107,7 +107,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://192.168.29.204:8081/repository/maven-snapshots/</url>
+	      <url>http://192.168.29.204:8081/repository/lalith-snapshot-repo/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
